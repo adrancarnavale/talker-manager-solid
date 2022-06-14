@@ -1,10 +1,11 @@
-# Project: Talker Manager
+# Project: Talker Manager - SOLID
 
 Project developed studying in [Trybe](https://www.betrybe.com/).
 
 ### Technologies and tools used
 - Express
 - NodeJS
+- Typescript
 
 ### Project objective
 
